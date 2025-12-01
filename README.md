@@ -1,4 +1,4 @@
-# Echo-Bot
+## Echo-Bot
 
 A clean and modern single-page HTML chat client designed for debugging front-end interactions with a mock API.
 Features
